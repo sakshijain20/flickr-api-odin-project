@@ -1,4 +1,4 @@
-## PROJECT: USING AN API
+## PROJECT: Using the Flickr API
 
 ## Ruby Version
 - ruby 3.0.0
